@@ -1,0 +1,4 @@
+,company,industry,symbol,category,market_cap,book_value,ROE,ROCE,net_profit_margin_inc,current_ratio,price_to_book,debt_to_equity,EPS,revenue_inc,cash_flow_inc,promoter_holding_change,inst_holding_change,div_yield,price_to_earning,return,sign
+1,I T C Ltd.,CONSUMER GOODS,ITC,Nifty 50,346803,48.5,21.29,31.04,0.34,3.2,6.1,0,10.2,11.58,202.1,0.14,-0.15,1.85,28.6,35.57,1
+2,Lupin Ltd.,PHARMA,LUPIN,NIfty Next 50,38435,304.7,4.44,9.38,159.01,2.3,2.4,0.6,13.4,-5.95,24.02,-0.04,0.48,0.63,-76.66,-15.3,0
+3,Ceat Ltd.,AUTOMOBILE,CEATLTD,Nifty Smallcap 250,4791,689.7,9.11,11.43,-1.2,0.9,1.6,0.5,62.4,11.26,-125.15,0.32,-1.77,1.04,16.41,25.44,1
